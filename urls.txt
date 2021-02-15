@@ -1,0 +1,5 @@
+github.com/jakevdp/PythonDataScienceHandbook/tree/master/notebooks
+
+github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.11-Working-with-Time-Series.ipynb
+
+jakevdp.github.io/blog/2014/06/10/is-seattle-really-seeing-an-uptick-in-cycling
